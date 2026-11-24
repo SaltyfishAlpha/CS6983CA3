@@ -138,3 +138,10 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]ceneDependencyCache*
 
 .idea
+
+# Python
+__pycache__/
+*.pyc
+
+# MuJoCo runtime log
+MUJOCO_LOG.TXT

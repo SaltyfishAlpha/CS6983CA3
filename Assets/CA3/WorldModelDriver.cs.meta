@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 1d7e7507b4bbf774e82fb1277aa4c706
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - agent: {instanceID: 0}
+  - controller: {instanceID: 0}
+  - policy: {instanceID: 0}
+  - modelAsset: {instanceID: 0}
+  - normJson: {instanceID: 0}
+  - ghostArm: {fileID: 8370632419724303396, guid: 501e8f884de2a4b45b0500ad9121b909, type: 3}
+  - ghostMarker: {instanceID: 0}
+  - forecast: {instanceID: 0}
+  - deviation: {instanceID: 0}
+  - ghostMaterial: {instanceID: 0}
+  - lineMaterial: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
